@@ -7,10 +7,6 @@
 
 
 
-
-![2](https://user-images.githubusercontent.com/78841476/162971095-e4f8c7cb-a40b-406d-96fa-7b251becbb86.png)
-
-
 ### for andriod platform available only 
 ## this app is very useful and contains all things interactive to student who want to learn  a physics for twajehee exactly for scientific 
 
