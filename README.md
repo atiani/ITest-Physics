@@ -7,7 +7,7 @@
 
 
 
-### for andriod platform available only 
+### for andriod platform  only 
 ## this app is very useful and contains all things interactive to student who want to learn  a physics for twajehee exactly for scientific 
 
 هو تطبيق تعليمي تفاعلي من نوع الإختيار من متعدد يضم عدد كبير من المسائل المتعلقة بمبحث الفيزياء للمنهاج الفلسطيني الجديد ومخصص لطلبة التوجيهي العلمي
