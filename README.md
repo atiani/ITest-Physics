@@ -1,5 +1,5 @@
 
-![icon192(1)](https://user-images.githubusercontent.com/78841476/162969495-92ee8b94-6845-429d-bb8a-518612ffce92.png)
+![fffr (192 × 192 px)](https://user-images.githubusercontent.com/78841476/162975824-99f76ab3-19ff-4f2f-94d3-ffb9e83ac9d8.png)
 
 ![2](https://user-images.githubusercontent.com/78841476/162971095-e4f8c7cb-a40b-406d-96fa-7b251becbb86.png)
 
