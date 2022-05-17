@@ -41,7 +41,6 @@
 
 
 
-### programming languge : AS3.0 with Adobe AIR
 #### IDE : Adobe Animate cc 2022
 ##### SDK : AIR SDK 33.1.1.856
 
