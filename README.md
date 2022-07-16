@@ -1,4 +1,4 @@
-# ITest-Physics v4.0.86
+# ITest-Physics v4.0.87
 
 ![fffr (192 × 192 px)](https://user-images.githubusercontent.com/78841476/162975824-99f76ab3-19ff-4f2f-94d3-ffb9e83ac9d8.png)
 
@@ -42,5 +42,5 @@
 
 
 #### IDE : Adobe Animate cc 2022
-##### SDK : AIR SDK 33.1.1.856
+##### SDK : AIR SDK 33.1.1.889
 
